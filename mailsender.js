@@ -9,7 +9,7 @@ let configOptions = nodemailer.createTransport({
         pass: 'jekvvmtikbbijiep'
     }
 });
-
+// nodemailer 
 
 var mailOptions = {
     from: 'vikesh.anncode@gmail.com',
